@@ -66,7 +66,6 @@ body {
 
 .fa-play-circle,
 .fa-pause-circle {
-  position: absolute;
   color: rgba(230, 95, 18, 0.79);
   font-size: 20vh;
 }
